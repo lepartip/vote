@@ -1,8 +1,60 @@
 # vote
 pour voter 
 
+for voting it is needed a decentralized way of board of directors
 
+  
+a way of optimizing ideas
+and have recomendations to the commitee
+
+you can suggest your way 
+needs to be done  and can be used forked suggest issues things 
+it is yours to do and suggest
+
+ 
+
+take nothing personnal 
+we need coder
+proof readers
+testers
+
+
+
+ 
+ 
+
+voters are there to 
+suggest ideas
+suggest suggestions for it
+suggest ideas that are precised
+support ideas officially for commitee
+thumbs up y down
+support it for credits
+
+all    ideas    suggestions
+
+ideas that are precised
+
+thumbs are for voter
+
+official are for rep comitee
+
+credits arefor 
+
+donators 
+
+there is non voters 
+voters
+creditors
+official comitee
+
+
+the thumbs up are the way of having an idea to vo voted or not 
+it thumbed    credited    officially supported   resuggested    can be followed
+log in log 
+credits must be for 
 il faut une 
+
 
 idees suggeree
 
