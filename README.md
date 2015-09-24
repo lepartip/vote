@@ -8,7 +8,8 @@ a way of optimizing ideas
 and have recomendations to the commitee
 
 you can suggest your way 
-needs to be done  and can be used forked suggest issues things 
+it needs to be done  and 
+it can be used forked suggest issues things 
 it is yours to do and suggest
 
  
@@ -22,16 +23,24 @@ testers
 
  
  
-
+log o in
 voters are there to 
 suggest ideas
-suggest suggestions for it
-suggest ideas that are precised
+suggest suggestions for ideas 
+suggest ideas that are precised for ideas
 support ideas officially for commitee
 thumbs up y down
 support it for credits
 
-all    ideas    suggestions
+check ideas 
+as a progression  of ideas   links and dots
+as popularity officially supported credites     credits
+
+log out 
+
+
+ieda  ideas are for all    ideas    
+suggestions are 
 
 ideas that are precised
 
@@ -53,7 +62,13 @@ the thumbs up are the way of having an idea to vo voted or not
 it thumbed    credited    officially supported   resuggested    can be followed
 log in log 
 credits must be for 
-il faut une 
+ 
+
+
+
+
+
+
 
 
 idees suggeree
@@ -70,7 +85,7 @@ vote pour les idees supportees de la grande majorite
 
 il faut un 
 
-pour suu suggerer supporter 
+pour  suggerer supporter 
 et le vote est reel 
 
 
@@ -84,6 +99,7 @@ des niveaux de supports definis
 
 si une idee 
 on peut  faire    une idee des idees des suggestions un support officiel des credits etreutilises pour idee ces credits peuvent se transferer si idee est defavorisee  
+
 
 le but est de faire des recomendations to the board of directors au c a 
 le but est de faire des idees qui se font refaire 
@@ -139,3 +155,5 @@ log
 
  
 
+   
+   
