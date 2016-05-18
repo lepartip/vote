@@ -23,7 +23,8 @@ testers
 
  
  
-log o in
+
+
 voters are there to 
 suggest ideas
 suggest suggestions for ideas 
@@ -32,25 +33,31 @@ support ideas officially for commitee
 thumbs up y down
 support it for credits
 
-check ideas 
-as a progression  of ideas   links and dots
-as popularity officially supported credites     credits
 
-log out 
+to log in
+to check ideas 
+to check progression of ideas 
+to check links of ideas as a and dots 
+to check and support for popularity for officially supported and for credits
+
+to log out 
 
 
-ieda  ideas are for all    ideas    
-suggestions are 
+ideas 
+to give ideas is for all 
 
-ideas that are precised
+suggestions are ideas that are precised
 
 thumbs are for voter
 
-official are for rep comitee
+official support are for rep of comitee
 
-credits arefor 
+credits are for donators 
 
-donators 
+
+
+
+
 
 there is non voters 
 voters
@@ -58,14 +65,12 @@ creditors
 official comitee
 
 
-the thumbs up are the way of having an idea to vo voted or not 
-it thumbed    credited    officially supported   resuggested    can be followed
+
+
+the thumbs up are the way of having an idea to voted or not 
+an idea can be
+thumbed    credited    officially supported   resuggested    followed
 log in log 
-credits must be for 
- 
-
-
-
 
 
 
@@ -83,7 +88,8 @@ vote pour les idees supportees de la grande majorite
 
 
 
-il faut un 
+
+
 
 pour  suggerer supporter 
 et le vote est reel 
@@ -106,16 +112,17 @@ le but est de faire des idees qui se font refaire
 une idee de    une suggestion de    un support de    qui optimise ou est mobile 
 
 
-n Ux  comptes 
+
+Ux  comptes 
 
 threads
-if an idea 
+an idea 
 an idea
 a suggestion
 an support official
-credirts credits
+credits
 
-log in 
+
 ideas
 check the ideas you follow
 and the ideas that 
@@ -124,10 +131,9 @@ supported officially
 credit
 viewed
 
-can put d ideas 
+can put ideas 
 credits
 thumbs up
-
 check the ideas
 ideas 
 sort for credit
@@ -138,8 +144,7 @@ the thunmbs up are the popularity
 thunmbs up  the ideas are voted
 thumbs down the ideas are not voted
 credits are to ideas and it will be used
-supports are  
-for      and are
+
 
 thumbs are for all
 credits are      and for 
