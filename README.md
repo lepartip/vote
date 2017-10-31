@@ -5,14 +5,14 @@ for voting it is needed a decentralized way of board of directors
 
   
 a way of optimizing ideas
-and have recomendations to the commitee
-
+   and have recomendations to the commitee
+separtly a tangible way to vote  which is direct paper and places to vote and keep it safe the vote         
 you can suggest your way 
 it needs to be done  and 
 it can be used forked suggest issues things 
 it is yours to do and suggest
 
- 
+   
 
 take nothing personnal 
 we need coder
