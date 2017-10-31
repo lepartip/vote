@@ -2,7 +2,7 @@
 pour voter 
 
 for voting it is needed a decentralized way of board of directors
-
+ 
   
 a way of optimizing ideas
    and have recomendations to the commitee
@@ -15,11 +15,11 @@ it is yours to do and suggest
    
 
 take nothing personnal 
-we need coder
+we need coder 
 proof readers
 testers
-
-
+mecheanical engineers
+mechanical drawers
 
  
  
